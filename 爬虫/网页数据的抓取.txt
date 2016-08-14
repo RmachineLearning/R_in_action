@@ -1,0 +1,6 @@
+############数据分析三步走: 
+#1 数据抓取;
+#2 数据加工(金融数据分析quantmod、 数据加工厂plyr); 
+#3 数据可视化(数据可视化包ggplot2、 交互化展示包shiny)
+
+temp <- getURL("http://www.dataguru.cn/",debugfunction=d$update,verbose =TRUE)

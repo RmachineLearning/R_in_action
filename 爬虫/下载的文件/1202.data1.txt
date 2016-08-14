@@ -1,0 +1,12 @@
+0	away
+1	home
+3	home
+0	home
+0	home
+1	home
+1	away
+4	home
+4	away
+0	home
+2	home
+2	home
